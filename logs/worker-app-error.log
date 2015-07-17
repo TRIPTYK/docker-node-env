@@ -1,0 +1,210 @@
+/server/index.js:4
+  res.end('Hello World\n & I LOVE MY WORK);
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:73:16)
+    at Module._compile (module.js:443:25)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:207:23
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:49:16
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:1165:30
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:110:13)
+/server/index.js:4
+  res.end('Hello World\n & I LOVE MY WORK);
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:73:16)
+    at Module._compile (module.js:443:25)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:207:23
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:49:16
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:1165:30
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:110:13)
+/server/index.js:4
+  res.end('Hello World\n & I LOVE MY WORK);
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:73:16)
+    at Module._compile (module.js:443:25)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:207:23
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:49:16
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:1165:30
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:110:13)
+/server/index.js:4
+  res.end('Hello World\n & I LOVE MY WORK);
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:73:16)
+    at Module._compile (module.js:443:25)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:207:23
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:49:16
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:1165:30
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:110:13)
+/server/index.js:4
+  res.end('Hello World\n & I LOVE MY WORK);
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:73:16)
+    at Module._compile (module.js:443:25)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:207:23
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:49:16
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:1165:30
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:110:13)
+/server/index.js:4
+  res.end('Hello World\n & I LOVE MY WORK);
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:73:16)
+    at Module._compile (module.js:443:25)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:207:23
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:49:16
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:1165:30
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:110:13)
+/server/index.js:4
+  res.end('Hello World\n & I LOVE MY WORK);
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:73:16)
+    at Module._compile (module.js:443:25)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:207:23
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:49:16
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:1165:30
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:110:13)
+/server/index.js:4
+  res.end('Hello World\n & I LOVE MY WORK);
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:73:16)
+    at Module._compile (module.js:443:25)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:207:23
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:49:16
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:1165:30
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:110:13)
+/server/index.js:4
+  res.end('Hello World\n & I LOVE MY WORK);
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:73:16)
+    at Module._compile (module.js:443:25)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:207:23
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:49:16
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:1165:30
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:110:13)
+/server/index.js:4
+  res.end('Hello World\n & I LOVE MY WORK);
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:73:16)
+    at Module._compile (module.js:443:25)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:207:23
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:49:16
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:1165:30
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:110:13)
+/server/index.js:4
+  res.end('Hello World\n & I LOVE MY WORK);
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:73:16)
+    at Module._compile (module.js:443:25)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:207:23
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:49:16
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:1165:30
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:110:13)
+/server/index.js:4
+  res.end('Hello World\n & I LOVE MY WORK);
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:73:16)
+    at Module._compile (module.js:443:25)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:207:23
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:49:16
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:1165:30
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:110:13)
+/server/index.js:4
+  res.end('Hello World\n & I LOVE MY WORK);
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:73:16)
+    at Module._compile (module.js:443:25)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:207:23
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:49:16
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:1165:30
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:110:13)
+/server/index.js:4
+  res.end('Hello World\n & I LOVE MY WORK);
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:73:16)
+    at Module._compile (module.js:443:25)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:207:23
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:49:16
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:1165:30
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:110:13)
+/server/index.js:4
+  res.end('Hello World\n & I LOVE MY WORK);
+          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+SyntaxError: Unexpected token ILLEGAL
+    at exports.runInThisContext (vm.js:73:16)
+    at Module._compile (module.js:443:25)
+    at Object.Module._extensions..js (module.js:478:10)
+    at Module.load (module.js:355:32)
+    at Function.Module._load (module.js:310:12)
+    at Function.<anonymous> (/usr/local/lib/node_modules/pm2/node_modules/pmx/lib/transaction.js:62:21)
+    at /usr/local/lib/node_modules/pm2/lib/ProcessContainer.js:207:23
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:49:16
+    at /usr/local/lib/node_modules/pm2/node_modules/async/lib/async.js:1165:30
+    at WriteStream.<anonymous> (/usr/local/lib/node_modules/pm2/lib/Utility.js:110:13)
