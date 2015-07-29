@@ -6,3 +6,10 @@ node:
     - ./server:/server
     - ./environment:/environment
     - ./logs:/root/.pm2/logs
+mongo:
+  image: mongo
+  volumes:
+    - ./dump:/dump
+  ports:
+    - "27017:27017"
+    - "28017:28017"
