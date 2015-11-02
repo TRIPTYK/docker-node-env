@@ -6,4 +6,5 @@ else
      echo "its  running"
      docker-compose start
 fi
-fswatch -o server | xargs -n1 -I{} docker exec -d dockernodeenv_node_1 pm2 restart 0;
+# fswatch -o server | xargs -n1 -I{} docker exec -d dockernodeenv_node_1 pm2 restart 0;
+fswatch -o server | xargs -n1 -I{} docker exec -it dockernodeenv_node_1 pm2 restart 0;
